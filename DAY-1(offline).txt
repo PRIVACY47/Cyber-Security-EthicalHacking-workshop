@@ -1,0 +1,191 @@
+
+
+balck hat :the pertson who is highly skilled and tehcnically sound
+they dont reveal the loop holes to the highet authorities(uses for personal uses) =>invent attacking tools
+
+
+white hat:they take permission and enter into zone and they find loop hoes and report => invent defending tools
+
+
+grey hat: enter into wevsite without permission(as a black hat) and report loop holes(as white hat) if the management dont respond they revvel the loop hokes
+
+sucidal hat: two types 
+1)highly powerful   :: high knowledge
+after attack had completed they reveal their identity and they sucide
+
+
+
+2)script kiddies:  knowledless they dinst lnow any thing they catck teenageres they use them as a target
+
+
+categories of hackers::
+
+three types
+
+coderes :: they are the gods of thechnology who build everything
+
+admins :: they maintain all the tools developed by coders but they dont know how to build 
+
+script kiddies :: they dont have any kind of knowledge they learn then and there like following a utube vids.they dint have knowledge abt the impact of what they do
+
+differenc between active and passive attack
+
+active attack: if a attcket make attack and the victims make notice of that that 
+passive aattck: if attacker make aattack anfd make sure he donta cones under the notice of that victims
+
+
+
+
+vm ware 
+
+virtualization:
+
+hyperviser :: technology useful to run multiple operating systems parallely
+ex for hyperviser : vmware work station ,virtual box
+
+
+why we need to run virtual :: caz it destroys the sofeware so we make work in os in virtual machine so the virtual machine gets destroyes and our main brach is safe
+
+
+
+
+system hacking
+
+bruteforce  (methodology) 
+wordlist   types dictionary wordlist,rainbow wordlist
+
+
+bruteforce : thechniqe used to password cracking wwhixh uses dictionary rainbow table wordlist by checking the probability to get required pssword 
+              uses trail and erro r method with possible alpha numeric and special charecters 
+
+
+what is word list..?
+
+dictionary wordd list :: having simple and possible posswards slow in cracking password
+
+rainbow woed list : encrypted content
+
+where the passwords are stored in windows ..?
+
+It is in the sam file  location: C:\Windows\System32\config\SAM
+sam stands for security accounts manager 
+
+where password storesd in linux its in etc file
+passwd user accounts
+shadow 
+
+
+plain text is converted into hash and then matched with the hash contents in the sam file
+ 
+
+change the password with out knowing the previous password
+
+net space is an utility  command available in the windows.net space is useful in changing the password in the windows
+
+
+net user 
+net user username password
+
+if the user name is having  space then mention it in the double quote 
+
+limitations cannot know the the previous password
+
+prevention dont give the administration rights to the user fron which we are using
+
+
+windows password cracking using OPH cracking
+
+
+oph crack is an open source tool which we can get it from the interner which we acan get it from internet .iso format
+
+
+fiels that which run out of the os are called boot software
+.exe is a runnable can run with in the system
+
+
+rufus is a usb bootable software
+
+go set usb as primary in boot options
+
+
+drawbackd takes lot of time
+if password is alphanumeric then it is very difficult
+
+
+by passong the passwod by using the kon boot
+
+
+disable usb ports and keep password to the boot
+
+
+network
+
+ip is a unique address for identification
+these are static and dynamic
+
+public and private ip 
+
+classification of ip address(research)
+
+a rourte is kept in a public place and it can generaate 1-255 ip  address
+
+proxy and vpns
+
+to surf the internet anonumously
+prxys are slow and vpns are fast 
+
+prxys aare less secure and vpns are more seecure 
+
+proxy uses  more interenet 
+ 
+proxy means using of different ip address
+
+vpns ::
+
+browser based and syasyen based vpn 
+
+hide my ass bouncing vp
+ 
+
+find locaron using ip address
+
+
+
+spoofing 
+
+spoofing is a situation in which a person or progran sucessfully masquerades as naother by falsifying data to gain 
+
+1)mac spoofing 
+2)call spoofing(crazy call.net)
+3)sms sppfing
+4)email spoofing(emkei.cz)
+
+change mac address tmac
+
+to know mac address cmd :: getmac /v /fo /list
+
+
+social engineering :
+
+pishing website:::: pishbat
+
+there are fout types of social engineering
+
+
+kali linux have more than 600 hacking tools which is used to penetration testing
+
+seeker github
+
+git clone 
+linux kernel
+
+python seeker.py -p 1337
+
+ngrok is used to make a stable ip address 
+
+./ngrok http 1337
+
+
+
+
+

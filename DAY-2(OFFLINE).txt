@@ -1,0 +1,172 @@
+pyphisher available in git hub
+
+1)chmod 777 *
+
+what is chmod (read write and execute permission )
+
+
+2)python3 pyphisher.py
+
+ngrok is a tunnel which is used to give us a stable connection
+
+what is the difference between http and https 
+
+secured and there is encryption in the https 
+
+
+if we are connected to the common wifi MIMA(MAN IN THE MIDDLE ATTACK) can watch what we are doing if we use http sites
+
+https (or) ssl  vulnerability::heart bleed ==== attack:ssl strip(decrease the security)
+
+https with TLS (with lock)
+
+IDN homograph attack :
+
+prevention
+netctaft is an website that which helps in finding all the details ie the start date and rankinf and security e.t.c..
+
+
+cam hacker 
+
+chmod 777 *
+
+./ch.sh
+
+
+advance ip scanner to get both ip and mac address
+
+data recovery  
+data is stored in the form of fragments (stored in random places)
+defragemntation analyze and fix option (stores data in proper place helps in proper and fast working of)
+
+
+recuva recovery tool used to recover data 
+
+cryptography --> conversion of understanding word to ununderstandable format (we can see it but cannot understand)
+
+steganography -->hiding information in media files 
+software (quickstago tool)
+
+
+ntfs alternate data stream(create no of layers in the file which is used to store data secretly)
+
+
+storing data sectectly in the notepad
+notepad filename.txt:password
+
+
+
+
+
+
+malare..?
+
+malware is a malicious piece of code written by the humans.
+types 
+1)virus
+2}worm
+3)trozon
+4)backdoor 
+5)rootkit
+6)bot
+7)spyware
+8)addware 
+9)ransomware
+10)keyloggers
+
+
+
+virus :: vital information resource under seize
+behaviour  
+1) it doesnt disturb until we interact with it i.e.. until we execute it
+works with human interaction and destroy the dara.
+
+2)worm(same a virus) ::   it does nt require the human interaction .it self replicates it self(if a worm iis present inthe computer if a pendrive is connected then tshe copy 
+of woem id entered into pendrive )
+spread external decices lans or interner pendrives ...
+
+both cannot moniter and used only for destruction
+
+3)backdoor :: a malicious code when sent to victim on double click we can moniter everything but we cannot destroy the data
+
+4)trozon :: used to monitor and destroy data
+
+5)rootkit :: it comes frim kernal level and antivirus cannot scan it it is also used for monitoring
+
+6)bot :: process is done automatically   examlple autoliker
+
+7)spyware ::  takes all the information in the mobile and gives it to hackers
+
+8)ransomeware :: lockd up all our files by changing the format of the file
+
+9)keyloggers(no live access) ::
+ it is not active it is two types 1)hardware(antivirys cannot do anything) and 2) software
+
+10)add ware :: no harm but they get money by clicking on thaat add
+
+
+software keyloggers all the clicks by the 
+
+
+creating of virus by notepad(.bat format)
+@echo off
+ :x
+ start winword 
+ start mspaint
+ goto x
+
+
+worm(.lnk format) :
+creates shortcuts by hiding the original
+use command *.* to see the hidden files
+
+use tools from interner to kill it
+
+
+
+delme virus maker   (tool) (it sperds the virus and delete the files tool)(hybrid of virus and woem)
+
+
+virustotal.com
+
+
+antivirus types
+
+1)signature based (location ,size)
+2)behaviour based ()
+3)sand box creates a virtual environment in the antivirus checks its files with the antivirus if it fails then it never releases out if the file fails with the antivirus
+4)heuristic based  :: combination of both signature and behaviour based
+5)data mining : adopts a file and decrypts the file and analyses it
+
+esp8266 is used to block the wifi
+
+
+
+
+wireless attacks
+
+usb wriless 
+ethiros  chip set supports monitor mode and packet injection 
+
+
+wifi haacking tools:
+wordlist 
+aircrack tool
+kali linux os
+
+
+we get .cap file which consists of hash details
+
+on receiving we have to apply bruteforce to get the password
+
+
+GHDB go find ..google hacking database
+
+filetype:
+inurl:
+intitle:
+site:
+intext:
+
+
+
